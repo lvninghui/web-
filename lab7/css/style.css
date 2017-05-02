@@ -1,0 +1,29 @@
+body{
+	font-family: Arial;
+	font-size:12px;
+	color:gray;
+	line-height:2em;
+}
+a{
+	color:#727272;
+	text-decoration:none; 
+}
+a:hover{
+	color:#727272;
+	text-decoration:underline;
+}
+.no1{
+	font-size:14px;
+	color:#b9f605;
+	font-weight:bolder;
+}
+.no2{
+	color:white;
+}
+span a:hover{
+	color:#b9f605;
+	text-decoration:none;
+}
+.special{
+	color:#fdb306;
+}
