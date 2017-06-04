@@ -1,0 +1,22 @@
+*{padding-bottom:0px;margin: 0px; }
+body{font:12px/22px "宋体" arail sanf;color:#333;}
+ul{list-style: none;}
+a{text-decoration: none; color: #333;}
+.clear{clear:left;}
+.logo{width:1000px;margin:0px auto;}
+.menu{width: 100%;height: 40px;background: #269f7d}
+.menu ul{width: 1000px;margin:0px auto;}
+.menu ul li{float: left;width:120px; line-height: 40px; }
+.menu a{font-size: 16px; color: #fff}
+.banner,.banner img{width: 100%;height: auto;}
+.a{width: 1000px;margin:0px auto;}
+.m_left{width: 240px;height: 298px;float: left;border:1px solid #ccc; }
+.m_right{width: 740px;height: 298px;float: right;border:1px solid #ccc;}
+.banner_img{width: 1000px;height: 500px;border:1px solid #ccc;margin:0px auto;}
+.aa{width: 200px;height:500px;margin:0px auto;float: left}
+.aa_img{width: 180px;height:500px;float: left;margin:10px;}
+.bb{width: 200px;height:500px;margin:0px auto;float: left}
+.cc{width: 200px;height:500px;margin:0px auto;float: left}
+.dd{width: 200px;height:500px;margin:0px auto;float: left}
+.ee{width: 200px;height:500px;margin:0px auto;float: left}
+.footer{height: 50px;background: #666;color: #aaa;text-align: center;}
