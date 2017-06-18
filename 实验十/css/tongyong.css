@@ -1,0 +1,25 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+	font-size: 12px;
+	font-family: '宋体';
+	color: #522a06;
+}
+body{
+	background:url(../images/bodybg.gif);
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	text-decoration:none;
+	color: #522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+li{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+img{border: 0px;}
