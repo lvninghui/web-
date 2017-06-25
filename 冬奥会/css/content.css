@@ -1,0 +1,150 @@
+.header{
+	width: 100%;
+	height: 318px;
+	background-image:url(../images/5.png);
+	background-position: center;
+}
+.kuaisudenglu{
+	padding-left: 1100px;
+	padding-top: 40px;
+}
+.denglu{	
+	width: 70px;
+	height: 25px;
+	background-color: #5CACEE;
+	color: #fff;
+	border:0px solid #f8f5ee;
+}
+.denglu:hover{
+	background-color: #D1EEEE;
+}
+.zhuce{
+	width: 70px;
+	height: 25px;
+	background-color: #5CACEE;
+	color: #fff;
+	border:0px solid #f8f5ee;
+}
+.zhuce:hover{
+	background-color: #D1EEEE;
+}
+.logo{
+	margin: auto;
+	margin-left: 25px;
+	padding-top: 0px
+}
+.daohangsousuo{
+	height: 40px;
+	background:url(../images/8.png);
+	padding-bottom: 0px;
+	margin-top:145px;
+}
+.daohangsousuo_body{
+	width: 1000px;
+	margin:auto;
+}
+.daohanglan{
+	width: 800px;
+	font-style: bolder;
+	color: #fff;
+	float: left;
+}
+.daohanglan a{
+	line-height: 40px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+
+}
+.daohanglan a:hover{
+	color: #98f5ff;
+	text-decoration: none;
+}
+#bisaichanguan{color:#98f5ff;}
+.shurukuang{
+	margin-top: 8px;
+	width: 140px;
+	height: 19px;
+	float: left;
+	background-color: #f8f5ee;
+	padding: 0px;
+	border: 0px;
+}
+.sousuo{
+	margin-top: 6px;
+	width: 50px;
+	height: 25px;
+	background-color: #5CACEE;
+	color: #fff;
+	border: 0px solid #666;
+}
+.sousuo:hover{
+	background-color: #D1EEEE
+}
+.lefter{
+	width:800px;
+	margin-top:10px;
+	float:left;
+	margin-left: 200px;
+}
+.title{
+	text-align:center;
+	margin-top:20px;
+}
+.line{
+	margin-top:20px;
+	margin-bottom:10px;
+	color: #666;
+}
+.theme{
+	margin-top:20px;
+	font-size:14px;
+}
+.first p{
+	line-height:30px;
+	color:#666;
+}
+.sedcond p{
+	line-height:30px;
+	color:#666;
+}
+.theme_a{
+	text-align:center;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.bottom{
+	margin-top:15px;
+}
+.line1{
+	margin-bottom:15px;
+}
+.bottom p{
+	line-height:30px;
+	color:#666;
+}
+.bottom p a{
+	color:#666;
+	text-decoration:none;
+	font-weight:bold;
+}
+.bottom p a:hover{
+	text-decoration: none;
+	color: #D1EEEE;
+}
+.footer{
+	height: 105px;
+	clear: both;
+	background-image: url( ../images/19.png);
+	background-position: center;
+	width: 100%;
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+.footer_up{margin-top: 10px;}
+.footer_up a{margin-top: 40px;}
+.footer_down{line-height: 20px;}
+
+
+
